@@ -27,7 +27,5 @@ status-website:
 assignees:
   - lrxrn
 
-skipDeleteIssues: true
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
