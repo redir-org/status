@@ -7,6 +7,8 @@ sites:
     url: https://redir.us.kg
   - name: accounts.redir
     url: https://accounts.redir.us.kg
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
