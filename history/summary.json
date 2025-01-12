@@ -4,9 +4,9 @@
     "url": "https://redir.us.kg",
     "icon": "https://icons.duckduckgo.com/ip3/redir.us.kg.ico",
     "slug": "redir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 1599,
     "timeMonth": 1599,
     "timeYear": 1599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 0
+    }
   },
   {
     "name": "accounts.redir",
     "url": "https://accounts.redir.us.kg",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.redir.us.kg.ico",
     "slug": "accounts-redir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 422,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 0
+    }
   }
 ]
